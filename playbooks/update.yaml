@@ -1,5 +1,5 @@
 ---
-- hosts: DMZ
+- hosts: all
 
   become: true
   tasks:
